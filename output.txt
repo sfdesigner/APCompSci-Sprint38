@@ -1,0 +1,23 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=53753:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+Menu: 
+north: move north 
+south: move south 
+ east: move east 
+ west: move west 
+ exit: quit program 
+Command? north
+You move north.
+Command? north
+You move north.
+Command? south
+You move south.
+Command? west
+You move west.
+Command? east
+You move east.
+Command? east
+You move east.
+Command? exit
+Goodbye
+
+Process finished with exit code 0
